@@ -73,4 +73,8 @@ To create an APK for this app, follow these steps:
 2. Run the following command to build the APK:
 ````flutter build apk````
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
+
 

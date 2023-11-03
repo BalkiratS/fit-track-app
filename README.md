@@ -32,10 +32,14 @@ Before running the app, make sure you have the following software installed:
 
 ### Installation
 
-1. Clone the repository: git clone https://github.com/yourusername/fit-track-app.git
-2.  Change the working directory: cd fit-track-app
-3.  Install dependencies: flutter pub get
-4.  Run the app: flutter run
+1. Clone the repository:
+````git clone https://github.com/yourusername/fit-track-app.git````
+3.  Change the working directory:
+````cd fit-track-app````
+5.  Install dependencies:
+````flutter pub get````
+7.  Run the app:
+````flutter run````
 
 
 ## Usage
@@ -66,6 +70,7 @@ By integrating BlazePose and TensorFlow models, FitTrack ensures that you receiv
 To create an APK for this app, follow these steps:
 
 1. Navigate to the root directory of the project.
-2. Run the following command to build the APK: flutter build apk
+2. Run the following command to build the APK:
+````flutter build apk````
 
 

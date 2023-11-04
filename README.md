@@ -1,8 +1,18 @@
 # FitTrack: Real-Time Pose Tracker
 
-![App Screenshot](screenshots/Screenshot_1.png)<!-- length="300" -->
-![App Screenshot](screenshots/Screenshot_2.png)<!-- length="300" -->
-![App Screenshot](screenshots/Screenshot_3.png)<!-- length="300" -->
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/Screenshot_1.png" alt="Screenshot 1" width="300"/>
+    </td>
+    <td align="center">
+      <img src="screenshots/Screenshot_2.png" alt="Screenshot 2" width="300"/>
+    </td>
+    <td align="center">
+      <img src="screenshots/Screenshot_3.png" alt="Screenshot 2" width="300"/>
+    </td>
+  </tr>
+</table>
 
 https://github.com/BalkiratS/fit-track-app/assets/97463574/f5a2ffc9-def2-497f-a33a-735a1ef4e7ae
 

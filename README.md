@@ -1,6 +1,12 @@
 # FitTrack: Real-Time Pose Tracker
 
+![App Screenshot](screenshots/Screenshot_1.png)
+![App Screenshot](screenshots/Screenshot_2.png)
+![App Screenshot](screenshots/Screenshot_3.png)
+![App Screen recording](screenshots/screen_recording.MOV)
+
 ## Table of Contents
+
 - [Introduction](#introduction)
 - [Features](#features)
 - [Getting Started](#getting-started)

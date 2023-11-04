@@ -11,12 +11,6 @@
     <td align="center">
       <img src="screenshots/Screenshot_3.png" alt="Screenshot 2" width="300"/>
     </td>
-    <td align="center">
-      <video controls width="300">
-        <source src="https://github.com/BalkiratS/fit-track-app/assets/97463574/f5a2ffc9-def2-497f-a33a-735a1ef4e7ae" type="video/quicktime">
-        Your browser does not support the video tag.
-      </video>
-    </td>
   </tr>
 </table>
 

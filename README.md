@@ -83,7 +83,7 @@ By integrating BlazePose and TensorFlow models, FitTrack ensures that you receiv
 
 ## TFLite Models
 
-The TensorFlow Lite (TFLite) models used in the FitTrack app can be found in the [![Pose Detection Models](https://img.shields.io/badge/Pose%20Detection%20Models-Details-blue)](https://github.com/BalkiratS/pose-detection). You can access the model conversion and usage details within the project's code and notebooks.
+The TensorFlow Lite (TFLite) models used in the FitTrack app can be found in the [![Pose Detection Models](https://img.shields.io/badge/Pose%20Detection%20-Details-blue)](https://github.com/BalkiratS/pose_detection). You can access the model conversion and usage details within the project's code and notebooks.
 
 ## APK
 

@@ -81,6 +81,9 @@ FitTrack employs a multi-step process to provide real-time feedback on your yoga
 
 By integrating BlazePose and TensorFlow models, FitTrack ensures that you receive accurate feedback on your yoga poses, helping you refine your practice and achieve better results.
 
+## TFLite Models
+
+The TensorFlow Lite (TFLite) models used in the FitTrack app can be found in the [![Pose Detection Models](https://img.shields.io/badge/Pose%20Detection%20Models-Details-blue)](https://github.com/BalkiratS/pose-detection). You can access the model conversion and usage details within the project's code and notebooks.
 
 ## APK
 

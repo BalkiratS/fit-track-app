@@ -50,7 +50,7 @@ Before running the app, make sure you have the following software installed:
 ### Installation
 
 1. Clone the repository:
-````git clone https://github.com/yourusername/fit-track-app.git````
+````git clone https://github.com/BalkiratS/fit-track-app.git````
 3.  Change the working directory:
 ````cd fit-track-app````
 5.  Install dependencies:
